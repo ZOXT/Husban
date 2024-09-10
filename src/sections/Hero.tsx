@@ -77,7 +77,7 @@ export const HeroSection = () => {
     </div>
     <div className='max-w-lg mx-auto '>
     <h1 className='font-serif text-3xl text-center mt-8 tracking-wide md:text-5xl sm:px-4'>Building Exceptional User Experiences</h1>
-    <p className='mt-4 text-center text-white/60 md:text-lg sm:px-2'>Hi, I’m Husban. I specialize in creating high-performing web applications from your designs. Let’s discuss your next project!</p>
+    <p className='mt-4 text-center text-white/60 md:text-lg sm:px-2'>Hi, I&apos;m Husban. I specialize in creating high-performing web applications from your designs. Let’s discuss your next project!</p>
     </div>
     <div className=' z-10 flex flex-col md:flex-row justify-center items-center mt-8 gap-4'>
       <button   className=' z-10 inline-flex items-center border border-white/15 px-6 h-12 rounded-xl gap-4'>
@@ -86,8 +86,8 @@ export const HeroSection = () => {
       </button>
       
       <button className=' z-10 inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl cursor-pointer'>
-  <a className="w-full cursor-pointer"href="https://mail.google.com/mail/?view=cm&fs=1&to=baighusban2@gmail.com" target='_blank'><span className=''>👋</span>
-  <span className='font-semibold'>Let's Connect</span>
+  <a className="w-full cursor-pointer"href="https://mail.google.com/mail/?view=cm&fs=1&to=baighusban2@gmail.com" target='_blank'><span className="">👋</span>
+  <span className='font-semibold'>Let&apos;s Connect</span>
   </a>
 </button>
 

@@ -16,10 +16,10 @@ export const ContactSection = () => {
             <div>
               <h2 className="font-serif text-2xl md:text-3xl">
                 
-                Let's create something amazing together
+                Let&apos;s create something amazing together
               </h2>
               <p className="text-sm mt-2 md:text-base">
-  Looking to kick off your next project? Shoot me an email at <span className="bg-gradient-to-r from-blue-700 via-purple-700 to-pink-700 text-transparent bg-clip-text">baighusban2@gmail.com</span>, and let's get started!
+  Looking to kick off your next project? Shoot me an email at <span className="bg-gradient-to-r from-blue-700 via-purple-700 to-pink-700 text-transparent bg-clip-text">baighusban2@gmail.com</span>, and let&apos;s get started!
 </p>
 
             </div>
